@@ -16,7 +16,13 @@ Extrovertido, Amable y Carismático: Mi personalidad extrovertida me ayuda a est
 
 Experiencia y Conocimientos Técnicos:
 
-Estoy a punto de completar mi formación como Full Stack Developer en Henry, donde he trabajado con tecnologías como Node.js, JavaScript, Express, Nodemon, Cors, SQL, Postgres, React, Redux y git.
+Estoy a punto de completar mi formación como Full Stack Developer en Henry, donde he trabajado con tecnologías como !JavaScript
+!Node.js
+!Express
+!PostgreSQL
+!Sequelize
+!React
+!HTML
 Mi enfoque principal se encuentra en el desarrollo back-end, donde disfruto creando sistemas robustos y escalables para impulsar aplicaciones web.🚀
 
 Estoy emocionado por aplicar mis conocimientos técnicos en proyectos desafiantes y aprender de profesionales experimentados.

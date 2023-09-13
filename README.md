@@ -4,11 +4,11 @@
 
 Soy un apasionado desarrollador en formación en busca de oportunidades para crecer y contribuir al mundo de la tecnología. Actualmente, estoy cursando un programa de desarrollo Full Stack en Henry, donde he estado adquiriendo habilidades en tecnologías como Node.js, JavaScript, Express, SQL, Postgres, React, Redux y más. 🖥️🚀
 
-### Título:
+## Título:
 
 Desarrollador Full Stack en Formación | Apasionado por el Back-End | Técnico Electrónico 🔌
 
-### Valores:
+## Valores:
 
 - **Responsabilidad:** Siempre me esfuerzo por cumplir con mis compromisos y metas. La responsabilidad es una parte fundamental de mi ética de trabajo. ✨
 
@@ -20,7 +20,7 @@ Desarrollador Full Stack en Formación | Apasionado por el Back-End | Técnico E
 
 - **Extrovertido, Amable y Carismático:** Mi personalidad extrovertida me ayuda a establecer conexiones significativas con colegas y colaboradores. Soy amable y carismático, lo que facilita la comunicación y la resolución de problemas. 🙌
 
-### Experiencia y Conocimientos Técnicos:
+## Experiencia y Conocimientos Técnicos:
 
 Estoy a punto de completar mi formación como Full Stack Developer en Henry, donde he trabajado con tecnologías como:
 

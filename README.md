@@ -8,21 +8,19 @@ Soy un apasionado desarrollador en formación en busca de oportunidades para cre
 
 Desarrollador Full Stack en Formación | Apasionado por el Back-End | Técnico Electrónico 🔌
 
-## Valores:
+## Sobre mi:
 
-- **Responsabilidad:** Siempre me esfuerzo por cumplir con mis compromisos y metas. La responsabilidad es una parte fundamental de mi ética de trabajo. ✨
+- Me encanta la tecnologia y ampliar mis conocimientos respecto a ella🤓
 
-- **Empatía:** Disfruto entender las necesidades y perspectivas de los demás, lo que me ayuda a trabajar de manera más efectiva en equipo y brindar un servicio excepcional a los clientes. 🍃
+- Loco apasionado por el desarrollo ack-end🌐
 
-- **Apertura para Aprender y Mejorar:** Estoy constantemente buscando oportunidades para aprender y desarrollarme. Creo que el aprendizaje continuo es clave para el éxito en la industria tecnológica en constante evolución. 🤓
+- Me gusta conocer gente nueva dentro y fuera del ambiente laboral🙌
 
-- **Trabajo en Equipo:** Me encanta trabajar en equipo y contribuir con mis habilidades para lograr objetivos comunes. Creo que la diversidad de ideas enriquece cualquier proyecto. 🧑‍🤝‍🧑
-
-- **Extrovertido, Amable y Carismático:** Mi personalidad extrovertida me ayuda a establecer conexiones significativas con colegas y colaboradores. Soy amable y carismático, lo que facilita la comunicación y la resolución de problemas. 🙌
+- Me encanta el deporte y escuchar musica💪
 
 ## Experiencia y Conocimientos Técnicos:
 
-Estoy a punto de completar mi formación como Full Stack Developer en Henry, donde he trabajado con tecnologías como:
+Graduado de Henry como Full-Stack Developer adquiriendo habilidades en las siguientes tecnologias:
 
 - ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
 - ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge)
@@ -31,6 +29,17 @@ Estoy a punto de completar mi formación como Full Stack Developer en Henry, don
 - ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?logo=sequelize&logoColor=white&style=for-the-badge)
 - ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge)
 - ![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white&style=for-the-badge)
+
+
+## Proyectos principales:
+
+He trabajado en varios proyectos de distinta indole, a continuacion dejo link a cada uno de ellos:
+
+### Countries: 
+Este fue un proyecto dado por Henry, este mismo se basa en un SPA de paises donde se encuentra informacion util como puede ser su poblacion, area, contiente, etc.. Link del repositorio: https://github.com/BenjaPalazzo12/PI-Countries
+
+### Rick And Morty: 
+Este es el primer proyecto que realice durante mi carrera como profesional en el bootcamp de Henry. Este mismo esta basado en la API de Rick and Morty la cual nos muestra toda la info de los personajes como su genero, especie, origen, etc.. Link del repositorio: https://github.com/BenjaPalazzo12/proyecto-integardor
 
 Mi enfoque principal se encuentra en el desarrollo back-end, donde disfruto creando sistemas robustos y escalables para impulsar aplicaciones web. 🚀
 

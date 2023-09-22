@@ -36,7 +36,7 @@ Graduado de Henry como Full-Stack Developer adquiriendo habilidades en las sigui
 He trabajado en varios proyectos de distinta indole, a continuacion dejo link a cada uno de ellos:
 
 ### Countries: 
-Este fue un proyecto dado por Henry, este mismo se basa en un SPA de paises donde se encuentra informacion util como puede ser su poblacion, area, contiente, etc.. Link del repositorio: https://github.com/BenjaPalazzo12/PI-Countries
+Este fue un proyecto dado por Henry, este mismo se basa en un SPA de paises donde se encuentra informacion util como puede ser su poblacion, area, continente, etc.. Link del repositorio: https://github.com/BenjaPalazzo12/PI-Countries
 
 ### Rick And Morty: 
 Este es el primer proyecto que realice durante mi carrera como profesional en el bootcamp de Henry. Este mismo esta basado en la API de Rick and Morty la cual nos muestra toda la info de los personajes como su genero, especie, origen, etc.. Link del repositorio: https://github.com/BenjaPalazzo12/proyecto-integardor
